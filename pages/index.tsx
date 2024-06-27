@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-            Lets Get Started Quickly with Nextjs
+            Lets Get Started Quickly with Nextjs!
         </p>
 
 
